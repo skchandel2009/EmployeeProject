@@ -34,7 +34,7 @@ public class User {
 		this.userEmail = userEmail;
 	}
 	public User() {
-		
+		//default constructor
 	}
 	
 	
